@@ -11,42 +11,21 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "An application that displayed a number of images with various creatures with a horn or more. Users can give the creatures favorites and also sort them based on their number of horns.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p1.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
             "class": "devicon-react-original",
             "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,26 +34,44 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Farm Game",
+        "startDate": "2022",
+        "description": "Dirt.Farm is an Educational Farming Game with a 2D grid farm plot that keeps track of inventory. Integrates real time clock and can grow, harvest, and sell plants.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/photography/p1.jpg"
+        ],
+        "url": "https://github.com/lausl-makins/farming-game",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "301 Final Project",
+        "startDate": "2022",
+        "description": "Yet to be filled ",
+        "images": [
+          "images/portfolio/adventure/p1.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       }
@@ -85,14 +82,14 @@
         "title": "Youth Program Assistant",
         "years": "06.2021 - 12.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
           "Team collaboration",
-          "",
-          "Collaborated with co-workers to advise and direct youth in guided activities",
-          "Established plans and goals daily and accounted for routine operations, assessing risk management",
-          "Encouraged and fostered individual creativity and independent problem-solving within the youth community"
+          "Prepare and coordinate activities",
+          "Train junior employees",
+          "Assess risk management",
+          "Encourage individual creativity and  problem-solving"
         ]
       },
       {
@@ -100,14 +97,14 @@
         "title": "Assistant Manager",
         "years": "06.2019 - 08.2021",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Attention to detail within the customer experience",
+          "Handled budget and financials",
+          "Ensured efficient operations",
+          "Oversaw risk management",
+          "Supervised advertisement promotion"
         ]
       }
     ]
