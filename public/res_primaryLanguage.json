@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hello, my name is Liesl White and I am a Software Developer in  full stack JavaScript. I came from a university with a major in Wildlife Conservation and Management. However, this did not challenge or interest me as I thought it would so I looked for other career paths and stumbled upon software development through a family member. I still have a passion for conservation efforts from my previous studies and I believe I can still contribute to non-profit efforts using my skills as a software developer. I bring a lot of team management skills and utilization of positive customer engagement to promote my core company. My strengths rely on attention to detail, creative thinking, and my ability to adapt a plan of action to any given situation. The goal for myself is to build a foundation in the tech field not only using the skills Code Fellows will provide me but also from my growing network. I want to be able to use what I learn in order to facilitate data structures and applications for the user and possibly inspire them with a message.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,28 +81,24 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Davis-Monthan AFB Youth Center",
+        "title": "Youth Program Assistant",
+        "years": "06.2021 - 12.2021",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Team collaboration",
+          "",
+          "Collaborated with co-workers to advise and direct youth in guided activities",
+          "Established plans and goals daily and accounted for routine operations, assessing risk management",
+          "Encouraged and fostered individual creativity and independent problem-solving within the youth community"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "LeBuzz Caffe",
+        "title": "Assistant Manager",
+        "years": "06.2019 - 08.2021",
         "mainTech": [
           "Angular 7/8"
         ],
